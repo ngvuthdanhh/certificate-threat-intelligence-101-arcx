@@ -65,7 +65,7 @@ The course focuses on **threat intelligence concepts, OSINT, MITRE ATT&CK, threa
 ---
 
 ## 📜 Certificate
-🎓 [Foundation Level Threat Intelligence Analyst](./cert/Foundation%20Level%20Threat%20Intelligence%20Analyst.pdf)  
+🎓 [Foundation Level Threat Intelligence Analyst](./cert/Foundation%20Level%20Threat%20intelligence%20Analyst.pdf)
 
 ---
 
