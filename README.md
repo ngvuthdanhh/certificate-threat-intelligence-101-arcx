@@ -66,8 +66,7 @@ The course focuses on **threat intelligence concepts, OSINT, MITRE ATT&CK, threa
 
 ## 📜 Certificate
 
-🎓 [ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf](./cert/ngvu.thdanh-Anatomy-of-a-phishing-email-Transport-Certificate-of-attendance-CYRUS.pdf)
-
+🎓 [Foundation Level Threat Intelligence Analyst](./cert/Foundation%20Level%20Threat%20intelligence%20Analyst.pdf)
 
 ---
 
